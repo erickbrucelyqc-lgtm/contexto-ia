@@ -1,3 +1,22 @@
+<!-- ERICK-LAB-INTRO -->
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Context Prep — Erick Quio" /></p>
+
+# Context Prep · Erick Quio
+
+**Normalización de contexto con metadatos y adaptador experimental para Langflow.**
+
+Este repositorio es un fork de [langflow-ai/langflow](https://github.com/langflow-ai/langflow). Se conservan los autores y las licencias originales. El aporte local es una demo o herramienta independiente; no equivale a una contribución aceptada por upstream.
+
+### Empieza aquí
+
+- [Demo, ejecución y pruebas](ERICK_LAB.md)
+- [Cambios respecto al original](https://github.com/langflow-ai/langflow/compare/main...erickbrucelyqc-lgtm:langflow-agent-lab:main)
+- [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
+
+---
+
+## Documentación del proyecto original
+
 <!-- markdownlint-disable MD030 -->
 
 <picture>

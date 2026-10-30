@@ -1,0 +1,6 @@
+  Proyecto:   asistente de documentación
+
+  Objetivo: responder preguntas con fuentes verificables.
+  Formato:  resumen breve y referencias.
+
+  Este texto es sintético y sirve para probar la normalización.
