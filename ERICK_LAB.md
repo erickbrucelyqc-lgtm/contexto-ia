@@ -1,4 +1,4 @@
-# Context Prep · Erick Quio
+# Contexto IA · Erick Quio
 
 **Preparación de contexto para flujos de agentes.** Fork de
 [Langflow](https://github.com/langflow-ai/langflow), conservando su licencia MIT.

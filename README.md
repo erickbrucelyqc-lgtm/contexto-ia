@@ -1,7 +1,7 @@
 <!-- ERICK-LAB-INTRO -->
-<p align="center"><img src="erick_cover.svg" width="100%" alt="Context Prep — Erick Quio" /></p>
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Contexto IA — Erick Quio" /></p>
 
-# Context Prep · Erick Quio
+# Contexto IA · Erick Quio
 
 **Normalización de contexto con metadatos y adaptador experimental para Langflow.**
 
