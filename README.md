@@ -10,7 +10,7 @@ Este repositorio es un fork de [langflow-ai/langflow](https://github.com/langflo
 ### Empieza aquí
 
 - [Demo, ejecución y pruebas](ERICK_LAB.md)
-- [Cambios respecto al original](https://github.com/langflow-ai/langflow/compare/main...erickbrucelyqc-lgtm:langflow-agent-lab:main)
+- [Cambios respecto al original](https://github.com/langflow-ai/langflow/compare/main...erickbrucelyqc-lgtm:contexto-ia:main)
 - [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
 
 ---
